@@ -1,9 +1,8 @@
 
-Android JumpingJack Sample
+Aerial Vie
 ===================================
 
-A basic sample showing how to use the Gravity sensor on the wearable device
-by counting how many jumping jacks you have performed.
+Aerial Vie is a mobile application for smart wearable device (Android Watch) that will change the life of most people who would prefer to live independently in their homes in their old age. It uses the internal sensor for fall detection, and it will automatically send alert text message with GPS location to emergency responders.
 
 Introduction
 ------------
