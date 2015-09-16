@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2014 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources>
+
+    <string name="app_name">Vie</string>
+    <string name="reset_counter">Demo Fall</string>
+    <string name="gcm_defaultSenderId">455504395045</string>
+    <string name="detected_label">Fall Detected!</string>
+    <string name="active_label">Fall Detection\nto Activated</string>
+    <string name="reply_label">Reply</string>
+    <string name="lbl_error_occurred">Error Occurred</string>
+    <string name="lbl_alert_cancelled">Alert Cancelled</string>
+    <string name="lbl_sending">Sending...</string>>
+    <string-array name="reply_choices">
+        <item>Yes, I fell and need help</item>
+        <item>No, I am fine</item>
+    </string-array>
+</resources>

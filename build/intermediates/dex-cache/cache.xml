@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/jeffzhao415/AndroidStudioProjects/Seeding/vie.phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="/Users/jeffzhao415/AndroidStudioProjects/Seeding/vie.phone/build/intermediates/pre-dexed/debug/classes-79dfdc2af8c353d5a795293eb75d043d92f17f7e.jar" />
+    </item>
+    <item
+        jar="/Users/jeffzhao415/AndroidStudioProjects/Seeding/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="/Users/jeffzhao415/AndroidStudioProjects/Seeding/Wearable/build/intermediates/pre-dexed/debug/classes-206cff5779cdd01e2ae4e636dd050289403838db.jar" />
+    </item>
+    <item
+        jar="/Users/jeffzhao415/AndroidStudioProjects/Seeding/vie.phone/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="/Users/jeffzhao415/AndroidStudioProjects/Seeding/vie.phone/build/intermediates/pre-dexed/debug/classes-893b5c9fb1f04e14efc4bd9c1b9c2834bafcb364.jar" />
+    </item>
+    <item
+        jar="/Users/jeffzhao415/AndroidStudioProjects/Seeding/Wearable/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/jeffzhao415/AndroidStudioProjects/Seeding/Wearable/build/intermediates/pre-dexed/debug/classes-a9bd18cfdb8f8b962e8f94d029c1b7bb5f78701a.jar" />
+    </item>
+    <item
+        jar="/Users/jeffzhao415/AndroidStudioProjects/Seeding/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="/Users/jeffzhao415/AndroidStudioProjects/Seeding/Wearable/build/intermediates/pre-dexed/debug/classes-88fc58148bfef3a0bb2b1c7086ecb2af62c1d4e6.jar" />
+    </item>
+    <item
+        jar="/Users/jeffzhao415/AndroidStudioProjects/Seeding/Wearable/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/jeffzhao415/AndroidStudioProjects/Seeding/Wearable/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-6782d64d7869816e19776674c3e44101667a4584.jar" />
+    </item>
+    <item
+        jar="/Users/jeffzhao415/AndroidStudioProjects/Seeding/Wearable/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="/Users/jeffzhao415/AndroidStudioProjects/Seeding/Wearable/build/intermediates/pre-dexed/debug/classes-4483a3c7f679478d99d77079f4d47fed18eb2467.jar" />
+    </item>
+    <item
+        jar="/Users/jeffzhao415/AndroidStudioProjects/Seeding/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="/Users/jeffzhao415/AndroidStudioProjects/Seeding/Wearable/build/intermediates/pre-dexed/debug/classes-9f2979d864985bf4eceb1d60f36399f5def3db4e.jar" />
+    </item>
+    <item
+        jar="/Users/jeffzhao415/AndroidStudioProjects/Seeding/vie.phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="/Users/jeffzhao415/AndroidStudioProjects/Seeding/vie.phone/build/intermediates/pre-dexed/debug/classes-4b87297222b47e6efcdd19ee7d869dd40155ff10.jar" />
+    </item>
+    <item
+        jar="/Users/jeffzhao415/AndroidStudioProjects/Seeding/vie.phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="/Users/jeffzhao415/AndroidStudioProjects/Seeding/vie.phone/build/intermediates/pre-dexed/debug/classes-2c116a84473925bc3acfc9b39129f6e1bd0c71f9.jar" />
+    </item>
+    <item
+        jar="/Users/jeffzhao415/AndroidStudioProjects/Seeding/vie.phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="/Users/jeffzhao415/AndroidStudioProjects/Seeding/vie.phone/build/intermediates/pre-dexed/debug/classes-891e6d1eec420027c1e5e0f91bf7bc56976182e5.jar" />
+    </item>
+    <item
+        jar="/Users/jeffzhao415/AndroidStudioProjects/Seeding/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="/Users/jeffzhao415/AndroidStudioProjects/Seeding/Wearable/build/intermediates/pre-dexed/debug/classes-f9e76e2325bf78e4b2bc873faec1662c776a7d34.jar" />
+    </item>
+    <item
+        jar="/Users/jeffzhao415/AndroidStudioProjects/Seeding/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="/Users/jeffzhao415/AndroidStudioProjects/Seeding/Wearable/build/intermediates/pre-dexed/debug/classes-222d52c1f010fca8ca4b26d0b55a820f985f11f6.jar" />
+    </item>
+    <item
+        jar="/Users/jeffzhao415/AndroidStudioProjects/Seeding/vie.phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="/Users/jeffzhao415/AndroidStudioProjects/Seeding/vie.phone/build/intermediates/pre-dexed/debug/classes-40086f9cd0fbbf9ed6383a73e4f088bb34f2a90d.jar" />
+    </item>
+    <item
+        jar="/Users/jeffzhao415/AndroidStudioProjects/Seeding/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="/Users/jeffzhao415/AndroidStudioProjects/Seeding/Wearable/build/intermediates/pre-dexed/debug/classes-a72e24e95f42e14bf080008d3ce41546c473242c.jar" />
+    </item>
+    <item
+        jar="/Users/jeffzhao415/AndroidStudioProjects/Seeding/vie.phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="/Users/jeffzhao415/AndroidStudioProjects/Seeding/vie.phone/build/intermediates/pre-dexed/debug/classes-d9b9827b9700455655e435b57b7def2991d2cbe0.jar" />
+    </item>
+    <item
+        jar="/Users/jeffzhao415/AndroidStudioProjects/Seeding/vie.phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="/Users/jeffzhao415/AndroidStudioProjects/Seeding/vie.phone/build/intermediates/pre-dexed/debug/classes-adeaf95b673be5781a60f1a7eb72c975b35dafed.jar" />
+    </item>
+    <item
+        jar="/Users/jeffzhao415/AndroidStudioProjects/Seeding/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/Users/jeffzhao415/AndroidStudioProjects/Seeding/Wearable/build/intermediates/pre-dexed/debug/classes-87539c57c56a064d1ad835ab47e472e78812b3dd.jar" />
+    </item>
+    <item
+        jar="/Users/jeffzhao415/AndroidStudioProjects/Seeding/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0e239b45d3b94ac3d759405a9c5fd1f88e53913b">
+        <dex dex="/Users/jeffzhao415/AndroidStudioProjects/Seeding/Wearable/build/intermediates/pre-dexed/debug/classes-9a819e0529bf9463bad4b2e040d711f9b84527c5.jar" />
+    </item>
+    <item
+        jar="/Users/jeffzhao415/AndroidStudioProjects/Seeding/vie.phone/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/jeffzhao415/AndroidStudioProjects/Seeding/vie.phone/build/intermediates/pre-dexed/debug/classes-57e739dd70e7cab46b2b344e3e3d095c2b25b1ba.jar" />
+    </item>
+    <item
+        jar="/Users/jeffzhao415/AndroidStudioProjects/Seeding/vie.phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="/Users/jeffzhao415/AndroidStudioProjects/Seeding/vie.phone/build/intermediates/pre-dexed/debug/classes-7cb4124e5dead8fe70aea439a9bec1839c724899.jar" />
+    </item>
+    <item
+        jar="/Users/jeffzhao415/AndroidStudioProjects/Seeding/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="/Users/jeffzhao415/AndroidStudioProjects/Seeding/Wearable/build/intermediates/pre-dexed/debug/classes-7fe065194bbde51c9b97d23e088dfd1d0302d7e4.jar" />
+    </item>
+    <item
+        jar="/Users/jeffzhao415/AndroidStudioProjects/Seeding/vie.phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="/Users/jeffzhao415/AndroidStudioProjects/Seeding/vie.phone/build/intermediates/pre-dexed/debug/classes-242d28f851a9a34ea73f5c721ab13e81abbb2b03.jar" />
+    </item>
+    <item
+        jar="/Users/jeffzhao415/AndroidStudioProjects/Seeding/vie.phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="/Users/jeffzhao415/AndroidStudioProjects/Seeding/vie.phone/build/intermediates/pre-dexed/debug/classes-4d6f9c7f0d086f7b43b0f18d7fc54a5291ee9b78.jar" />
+    </item>
+    <item
+        jar="/Users/jeffzhao415/AndroidStudioProjects/Seeding/Wearable/build/intermediates/exploded-aar/Seeding/perferencedata/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3c243e40d38ef162ee284168c66e135d3af92940">
+        <dex dex="/Users/jeffzhao415/AndroidStudioProjects/Seeding/Wearable/build/intermediates/pre-dexed/debug/classes-ddd90473d17416927747bad13ef2bdc9b84a7c59.jar" />
+    </item>
+    <item
+        jar="/Users/jeffzhao415/AndroidStudioProjects/Seeding/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="/Users/jeffzhao415/AndroidStudioProjects/Seeding/Wearable/build/intermediates/pre-dexed/debug/classes-e6d5dd1d646b595c340d70acecce2f5bc9f3e25d.jar" />
+    </item>
+    <item
+        jar="/Users/jeffzhao415/AndroidStudioProjects/Seeding/Wearable/build/intermediates/exploded-aar/com.android.support/support-v13/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="79a5b6d9fbab3b5fb4c6f86a1ed7a17722fd937b">
+        <dex dex="/Users/jeffzhao415/AndroidStudioProjects/Seeding/Wearable/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-8a15bad9361ac30dd760bbd7069ed2eb50288f61.jar" />
+    </item>
+    <item
+        jar="/Users/jeffzhao415/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/jeffzhao415/AndroidStudioProjects/Seeding/vie.phone/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-2fd9ec0d36317ef6370fb7ebe258b926cb321627.jar" />
+    </item>
+    <item
+        jar="/Users/jeffzhao415/AndroidStudioProjects/Seeding/vie.phone/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="/Users/jeffzhao415/AndroidStudioProjects/Seeding/vie.phone/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-bac1ce1e1b9f6279e68a254d092dcb9d904c8ad5.jar" />
+    </item>
+    <item
+        jar="/Users/jeffzhao415/AndroidStudioProjects/Seeding/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="/Users/jeffzhao415/AndroidStudioProjects/Seeding/Wearable/build/intermediates/pre-dexed/debug/classes-cdc25d8d8f4e0e08a98b5f85f857d5536c0b816d.jar" />
+    </item>
+    <item
+        jar="/Users/jeffzhao415/AndroidStudioProjects/Seeding/vie.phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="/Users/jeffzhao415/AndroidStudioProjects/Seeding/vie.phone/build/intermediates/pre-dexed/debug/classes-b376c5ddef81a4a614f5d001051ec77cdc2d0a23.jar" />
+    </item>
+    <item
+        jar="/Users/jeffzhao415/AndroidStudioProjects/Seeding/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="/Users/jeffzhao415/AndroidStudioProjects/Seeding/Wearable/build/intermediates/pre-dexed/debug/classes-95ca297783610ed439e71c89bef02a82c8f91953.jar" />
+    </item>
+    <item
+        jar="/Users/jeffzhao415/AndroidStudioProjects/Seeding/Wearable/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/Users/jeffzhao415/AndroidStudioProjects/Seeding/Wearable/build/intermediates/pre-dexed/debug/classes-9a9fa788b9f6fe61bfe8a89d08b213d5244549d5.jar" />
+    </item>
+    <item
+        jar="/Users/jeffzhao415/AndroidStudioProjects/Seeding/Wearable/build/intermediates/exploded-aar/com.android.support/support-v13/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9aa93835393824b436f366120c9ba8a0260ce75d">
+        <dex dex="/Users/jeffzhao415/AndroidStudioProjects/Seeding/Wearable/build/intermediates/pre-dexed/debug/classes-768754002b1b75039ce9de97462c621c91c2aef9.jar" />
+    </item>
+    <item
+        jar="/Users/jeffzhao415/AndroidStudioProjects/Seeding/vie.phone/build/intermediates/exploded-aar/com.android.support/support-v13/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9aa93835393824b436f366120c9ba8a0260ce75d">
+        <dex dex="/Users/jeffzhao415/AndroidStudioProjects/Seeding/vie.phone/build/intermediates/pre-dexed/debug/classes-753dc069c9ad757610dadd515a462591256e0ce9.jar" />
+    </item>
+    <item
+        jar="/Users/jeffzhao415/AndroidStudioProjects/Seeding/Wearable/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="/Users/jeffzhao415/AndroidStudioProjects/Seeding/Wearable/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-c86453910c571a71863ca1fe723de81b95d418e0.jar" />
+    </item>
+    <item
+        jar="/Users/jeffzhao415/AndroidStudioProjects/Seeding/vie.phone/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/jeffzhao415/AndroidStudioProjects/Seeding/vie.phone/build/intermediates/pre-dexed/debug/classes-551d0e7fea94381459071c03b3686a246f97814a.jar" />
+    </item>
+    <item
+        jar="/Users/jeffzhao415/AndroidStudioProjects/Seeding/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="/Users/jeffzhao415/AndroidStudioProjects/Seeding/Wearable/build/intermediates/pre-dexed/debug/classes-8ba30b1ea412e9cee566e36e02528b53f29bb712.jar" />
+    </item>
+    <item
+        jar="/Users/jeffzhao415/AndroidStudioProjects/Seeding/vie.phone/build/intermediates/exploded-aar/com.android.support/support-v13/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="79a5b6d9fbab3b5fb4c6f86a1ed7a17722fd937b">
+        <dex dex="/Users/jeffzhao415/AndroidStudioProjects/Seeding/vie.phone/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-2cd5ad597438c7f26769a2461cbfb051266d866f.jar" />
+    </item>
+    <item
+        jar="/Users/jeffzhao415/AndroidStudioProjects/Seeding/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="/Users/jeffzhao415/AndroidStudioProjects/Seeding/Wearable/build/intermediates/pre-dexed/debug/classes-ec196f7983e956b3b6f3201c66a1154085c46eaa.jar" />
+    </item>
+    <item
+        jar="/Users/jeffzhao415/AndroidStudioProjects/Seeding/vie.phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/Users/jeffzhao415/AndroidStudioProjects/Seeding/vie.phone/build/intermediates/pre-dexed/debug/classes-570decabf49a0e5ea23a11187c135de4f4ad6f23.jar" />
+    </item>
+    <item
+        jar="/Users/jeffzhao415/AndroidStudioProjects/Seeding/vie.phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="/Users/jeffzhao415/AndroidStudioProjects/Seeding/vie.phone/build/intermediates/pre-dexed/debug/classes-0ecd3bf57899870fc2f0fba7c9f183619f49ae1f.jar" />
+    </item>
+    <item
+        jar="/Users/jeffzhao415/AndroidStudioProjects/Seeding/vie.phone/build/intermediates/exploded-aar/Seeding/perferencedata/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3c243e40d38ef162ee284168c66e135d3af92940">
+        <dex dex="/Users/jeffzhao415/AndroidStudioProjects/Seeding/vie.phone/build/intermediates/pre-dexed/debug/classes-561234664a1b9455cf0c67384ab63a1d0a0aab01.jar" />
+    </item>
+    <item
+        jar="/Users/jeffzhao415/AndroidStudioProjects/Seeding/vie.phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="/Users/jeffzhao415/AndroidStudioProjects/Seeding/vie.phone/build/intermediates/pre-dexed/debug/classes-79498296484634aa1ce0330169fe7143d49da475.jar" />
+    </item>
+    <item
+        jar="/Users/jeffzhao415/AndroidStudioProjects/Seeding/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="/Users/jeffzhao415/AndroidStudioProjects/Seeding/Wearable/build/intermediates/pre-dexed/debug/classes-f83ff3b3b9b9451a1ca0adb40efeaea4414a1136.jar" />
+    </item>
+    <item
+        jar="/Users/jeffzhao415/AndroidStudioProjects/Seeding/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="/Users/jeffzhao415/AndroidStudioProjects/Seeding/Wearable/build/intermediates/pre-dexed/debug/classes-ac787da05afe1ba30021bc9b1224c70af7df5c08.jar" />
+    </item>
+    <item
+        jar="/Users/jeffzhao415/AndroidStudioProjects/Seeding/vie.phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="/Users/jeffzhao415/AndroidStudioProjects/Seeding/vie.phone/build/intermediates/pre-dexed/debug/classes-0462ffc60b0bd2aa572311a20495933f69925df4.jar" />
+    </item>
+    <item
+        jar="/Users/jeffzhao415/AndroidStudioProjects/Seeding/vie.phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="/Users/jeffzhao415/AndroidStudioProjects/Seeding/vie.phone/build/intermediates/pre-dexed/debug/classes-b66d6a3fb21665d9b6f0c6f8fe5da57316c552b0.jar" />
+    </item>
+    <item
+        jar="/Users/jeffzhao415/AndroidStudioProjects/Seeding/vie.phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="/Users/jeffzhao415/AndroidStudioProjects/Seeding/vie.phone/build/intermediates/pre-dexed/debug/classes-cc48c004c31ef105c462f700266893b73099d695.jar" />
+    </item>
+    <item
+        jar="/Users/jeffzhao415/AndroidStudioProjects/Seeding/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="/Users/jeffzhao415/AndroidStudioProjects/Seeding/Wearable/build/intermediates/pre-dexed/debug/classes-cd76c45e97d9d69a5f69ad2fee17261d521ee52c.jar" />
+    </item>
+    <item
+        jar="/Users/jeffzhao415/AndroidStudioProjects/Seeding/vie.phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="/Users/jeffzhao415/AndroidStudioProjects/Seeding/vie.phone/build/intermediates/pre-dexed/debug/classes-c43f1cc54856274cf971579a2003f69e1d75ff0e.jar" />
+    </item>
+    <item
+        jar="/Users/jeffzhao415/AndroidStudioProjects/Seeding/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="/Users/jeffzhao415/AndroidStudioProjects/Seeding/Wearable/build/intermediates/pre-dexed/debug/classes-6432eb00a08aaa6c17993ecc77f14234d55968b9.jar" />
+    </item>
+    <item
+        jar="/Users/jeffzhao415/AndroidStudioProjects/Seeding/vie.phone/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/jeffzhao415/AndroidStudioProjects/Seeding/vie.phone/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-248a063ed33a4e32ab6d2204f6f5900aa32524eb.jar" />
+    </item>
+    <item
+        jar="/Users/jeffzhao415/AndroidStudioProjects/Seeding/vie.phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="/Users/jeffzhao415/AndroidStudioProjects/Seeding/vie.phone/build/intermediates/pre-dexed/debug/classes-112bb5c50ec081da9155418f9468588a6b327ee9.jar" />
+    </item>
+    <item
+        jar="/Users/jeffzhao415/AndroidStudioProjects/Seeding/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="/Users/jeffzhao415/AndroidStudioProjects/Seeding/Wearable/build/intermediates/pre-dexed/debug/classes-f79f3a51002f1309e46d7ed99e71887287b12fc9.jar" />
+    </item>
+    <item
+        jar="/Users/jeffzhao415/AndroidStudioProjects/Seeding/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="/Users/jeffzhao415/AndroidStudioProjects/Seeding/Wearable/build/intermediates/pre-dexed/debug/classes-7ee21ef8096a957e5b20a5a76dd1a612d5b78bab.jar" />
+    </item>
+    <item
+        jar="/Users/jeffzhao415/AndroidStudioProjects/Seeding/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="/Users/jeffzhao415/AndroidStudioProjects/Seeding/Wearable/build/intermediates/pre-dexed/debug/classes-3838ab91d6a113394a56b1adc234388033cc93b1.jar" />
+    </item>
+    <item
+        jar="/Users/jeffzhao415/AndroidStudioProjects/Seeding/Wearable/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/jeffzhao415/AndroidStudioProjects/Seeding/Wearable/build/intermediates/pre-dexed/debug/classes-da72b2e8deec80076bcb723b51549dcc7c078b6a.jar" />
+    </item>
+    <item
+        jar="/Users/jeffzhao415/AndroidStudioProjects/Seeding/vie.phone/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="/Users/jeffzhao415/AndroidStudioProjects/Seeding/vie.phone/build/intermediates/pre-dexed/debug/classes-35026ca4a1cc7c5a9dcf00d078d177cf2a1fae30.jar" />
+    </item>
+
+</items>

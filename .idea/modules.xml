@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Seeding.iml" filepath="$PROJECT_DIR$/Seeding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Wearable/Wearable.iml" filepath="$PROJECT_DIR$/Wearable/Wearable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/perferencedata/perferencedata.iml" filepath="$PROJECT_DIR$/perferencedata/perferencedata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vie.phone/vie.Phone.iml" filepath="$PROJECT_DIR$/vie.phone/vie.Phone.iml" />
+    </modules>
+  </component>
+</project>
